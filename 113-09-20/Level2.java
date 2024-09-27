@@ -1,10 +1,8 @@
-package cc.openhome;
-
 public class Level2 {
     public static void main(String[] args) {
-        var score = 88;
-        var quotient = score / 10;
-        var level = '\0';
+        int score = 88;
+        int quotient = score / 10;
+        char level = '\0';
         
         switch(quotient) { 
             case 10: 
@@ -23,6 +21,6 @@ public class Level2 {
             default: 
                 level = 'E';
         }
-        System.out.printf("±o¤Àµ¥¯Å¡G%c%n", level);
+        System.out.printf("å¾—åˆ†ç­‰ç´š: %c%n", level);
     }
 }
