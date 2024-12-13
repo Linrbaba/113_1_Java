@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52a4512e-c9bc-49f0-87ad-35b174fde251" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../113-09-27/113-09-27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../113-09-27/out/production/113-09-27/113-09-27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../113-10-18/Encapsulation2/Encapsulation2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../113-10-18/Encapsulation3/Encapsulation3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../113-10-25/OverloadedConstructor/OverloadedConstructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../113-11-15/Inheritance_3_overwriting/Inheritance_3_overwriting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/113-12-13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayNArrayList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayNArrayList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayNArrayList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayNArrayList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayNArrayList/ArrayNArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayNArrayList/src/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CashCardNewException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CardApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CashCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsufficientException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NotMarchException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowException/ThrowException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowException/src/FileReadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowException/src/cashcard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-09-27/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-09-27/Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/CopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/CopyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/DeepCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/DeepCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/IntegerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/IntegerArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/IrregularArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/IrregularArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/Scores.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/Scores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/Scores2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/Scores2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/ShallowCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/ShallowCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/TextBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/TextBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/XY.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/XY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-10-11/XY2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-10-11/XY2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../113-11-01/Inheritance01/src/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../113-11-01/Inheritance01/src/Magician.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ho-Sih-Sian"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ho-Sih-Sian/113-01-Java.git",
+    "accountId": "bc04df31-9f0e-4de7-938e-cdaf6d31d172"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2q96Vf1u95blSMjqZU1N0fe6zP7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CardApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52a4512e-c9bc-49f0-87ad-35b174fde251" name="Changes" comment="" />
+      <created>1734062471184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734062471184</updated>
+    </task>
+    <servers />
+  </component>
+</project>
